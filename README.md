@@ -25,6 +25,7 @@
 Dr.Web ЦСАЗИ
 ==
 Добавьте в папку DrWeb файл drweb-11.1.3-av-linux-amd64.run (Nextcloud Минцифры)
+
 В папке DrWeb файл Min-Zdrav.cfg заменить на свой
 После установки:
 1)зайти под юзером, в трее пкм "открыть Dr.Web для Linux"
